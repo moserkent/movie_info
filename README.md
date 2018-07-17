@@ -1,0 +1,1 @@
+This is the README.md file for the movie_info repository.  It contains info on my **favorite** movies.  Most of my favorites are _comedy_, _action_, and _dramas_.  I do **not** like _horror_ flickstouch README.md
